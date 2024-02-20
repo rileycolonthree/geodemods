@@ -6,7 +6,7 @@
 	"name": "NoGrounds",
 	"developer": "Riley and Uproxide",
 	"description": "Removes the NG button from the main menu",
-	"repository": "https://github.com/rileythesillyone/geodemods",
+	"repository": "https://github.com/rileythesillyone/geodemods/tree/main/nogrounds",
 	"dependencies": [
         {
             "id": "geode.node-ids",
