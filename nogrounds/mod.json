@@ -8,7 +8,8 @@
 		"Riley",
 		"Uproxide"
 	],
-	"description": "Removes the NG Button from the menu because it's not very useful.",
+	"description": "Removes the NG button from the main menu",
+	"repository": "https://github.com/rileythesillyone/geodemods/tree/main/nogrounds",
 	"dependencies": [
         {
             "id": "geode.node-ids",
